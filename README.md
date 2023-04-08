@@ -10,7 +10,6 @@ y ver el paso a paso ingresando a la carpeta correspondiente al proyecto en cues
 En este proyecto se exploran datos acerca de las aplicaciones mas relevantes de la playstore, se hace la limpieza de datos
 y se construyen diferentes grafos en base a los sets de datos generados acorde a el resultado esperado en cada caso.
 
----
 
 Visualise Categorical Data: Content Ratings
 
