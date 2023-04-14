@@ -36,3 +36,27 @@ Entre otros gráficos
 ----
 
 ##  Day 76 - Computation with NumPy and N-Dimensional Arrays
+
+En este proyecto se abordan algunos ejemplos para comprender la importancia de 'Numpy', tales como las operaciones matematicas en la matrices,
+así mismo se hacen algunos ejemplos de como podemos manipular imagenes convetiendolas a matrices usando numpy.
+
+Broadcasting and Scalars
+
+![](img/day_76_broadcasting.png)
+
+Convert the image to black and white
+
+![](img/day_76_black.png)
+
+Rotate the colour image
+
+![](img/day_76_rotate.png)
+
+Invert (i.e., solarize) the colour image
+
+![](img/day_76_color.png)
+
+----
+
+## Day 77 - Linear Regression and Data Visualisation with Seaborn
+
