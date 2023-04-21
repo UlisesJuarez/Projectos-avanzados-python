@@ -77,4 +77,4 @@ Uso de la regresion lineal para estimar el ingreso por presupusto de pelicula
 
 ----
 
-## Day 78
+##  Day 78 - Advanced - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
