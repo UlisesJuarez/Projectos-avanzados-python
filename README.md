@@ -60,3 +60,21 @@ Invert (i.e., solarize) the colour image
 
 ## Day 77 - Linear Regression and Data Visualisation with Seaborn
 
+En este proyecto se utiliza seaborn basada en mayplotlib para hacer la representación grafica de un sets de datos correspondiente a peliculas, su 
+presupuesto y sus ganancia, se abordan temas como la limpieza de datos, la preparación de datos y la regresion lineal.
+
+Plotting Movie Releases over Time
+
+![](img/day_77_bubble.png)
+
+Seaborn Regression Plots
+
+![](img/day_77_linear.png)
+
+Uso de la regresion lineal para estimar el ingreso por presupusto de pelicula
+
+![](img/day_77_regresion.png)
+
+----
+
+## Day 78
